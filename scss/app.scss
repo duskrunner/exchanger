@@ -1,0 +1,13 @@
+@import 'colors';
+@import 'base';
+@import 'components/container';
+@import 'components/wallet';
+@import 'components/exchange-rate';
+@import 'components/button';
+@import 'pages/exchange-widget';
+@import 'components/wallets-selector';
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
